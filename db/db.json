@@ -1,0 +1,16 @@
+[{
+        "title": "Hello",
+        "text": "Write a note",
+        "id": 1
+    },
+    {
+        "title": "New Note",
+        "text": "This is my second note",
+        "id": 2
+    },
+    {
+        "title": "New Note 3",
+        "text": "This is my third note",
+        "id": 3
+    }
+]
